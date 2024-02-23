@@ -7,8 +7,8 @@ by
 Wang, Z.,
 Brune, S.,
 Neuharth, D.,
-Glerum, A.
-Rouby, D.
+Glerum, A.,
+Rouby, D., and
 Fernandez, N.
 
 currently in preparation.
@@ -61,6 +61,7 @@ on the German HLRN cluster Lise. deal.II used:
 * p4est 2.2.0
 
 ASPECT used the following settings:
+
         ASPECT_VERSION:            2.4.0-pre
         CMAKE_BUILD_TYPE:          Release
         DEAL_II VERSION:           9.3.0
